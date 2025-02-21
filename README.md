@@ -159,8 +159,8 @@ CREATE TABLE reserva (
 ## 🤝 **Colaboradores**
 Este projeto foi desenvolvido por:
 
-- **[@gabrielresplandes](https://github.com/gabrielresplandes) 
-- **[@vitinhozy](https://github.com/vitinhozy)
+- [@gabrielresplandes](https://github.com/gabrielresplandes) 
+- [@vitinhozy](https://github.com/vitinhozy)
 
 Agradecemos a participação do professor e colegas na troca de ideias durante o desenvolvimento. 🎓📚
 
